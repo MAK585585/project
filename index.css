@@ -142,8 +142,8 @@
   background-color: rgba(255, 255, 255, 0);
 }
 ::placeholder {
-  color: grey; /* Change the color */
-  font-size: 16px; /* Change the font size */
+  color: grey; 
+  font-size: 16px; 
 }
 
 
@@ -233,12 +233,12 @@
   position: absolute;
   left: 80px;
   top: 96px;
-  z-index: 1; /* Ensure the video is above the image */
+  z-index: 1; 
 }
 
 .second-2 video {
-  width: 100%; /* Ensure the video fits within its container */
-  height: auto; /* Maintain aspect ratio */
+  width: 100%; 
+  height: auto; 
 }
 
 .cen{
